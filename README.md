@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Usman Toufique</h1>
-<h3 align="center">Android Developer, Passionate Gamer</h3>
+<h3 align="center">Software Engineer, Android Developer, Passionate Gamer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 - 🔭 I’m currently working on **Android Kotlin**
