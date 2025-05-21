@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Google UI/UX**
 
-- 👨‍💻 All of my projects are available at [https://github.com/UsmanMalik47](https://github.com/UsmanMalik47)
+- 👨‍💻 All of my projects are available at [https://github.com/UsmanT47](https://github.com/UsmanT47)
 
 - 💬 Ask me about **Android Studio, Kotlin, SRS, Linux**
 
