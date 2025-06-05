@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Usman Toufique</h1>
-<h3 align="center">Software Engineer, Android Developer, Passionate Gamer</h3>
+<h3 align="center">Software Engineer, Backend Developer, Passionate Gamer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
-- 🔭 I’m currently working on **Android Kotlin**
+- 🔭 I’m currently working on **AI Engineering, NodeJS, Automations**
 
-- 🌱 I’m currently learning **Google UI/UX**
+- 🌱 I’m currently learning **Data Analysis and Predictive Analysis**
 
 - 👨‍💻 All of my projects are available at [https://github.com/UsmanT47](https://github.com/UsmanT47)
 
-- 💬 Ask me about **Android Studio, Kotlin, SRS, Linux**
+- 💬 Ask me about **NodeJS, NestJS, GenAI, Workflow Automations, n8n, Android Studio, Kotlin, SRS, Linux**
 
 - 📫 How to reach me **linuxkal3434@gmail.com**
 
